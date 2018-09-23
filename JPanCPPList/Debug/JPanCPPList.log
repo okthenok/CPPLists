@@ -1,2 +1,2 @@
 ﻿  DLList.cpp
-  JPanCPPList.vcxproj -> C:\Users\JohnnyPan\Documents\Visual Studio 2017\Projects\JPanCPPList\Debug\JPanCPPList.exe
+c:\users\lumastars3\documents\github\cpplists\jpancpplist\dllist.cpp(114): error C4716: 'DLList::RemoveAt': must return a value
